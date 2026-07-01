@@ -16,7 +16,7 @@ Project ini adalah implementasi Computer Vision menggunakan Python untuk mengiku
 ### 1. Clone Repository
 Unduh project ini ke komputer kamu dan masuk ke dalam foldernya:
 ```bash
-git clone [https://github.com/Resta134/FotoKitaBlur-Python.git](https://github.com/Resta134/FotoKitaBlur-Python.git)
+git clone https://github.com/Resta134/FotoKitaBlur-Python.git
 cd FotoKitaBlur-Python
 ```
 
